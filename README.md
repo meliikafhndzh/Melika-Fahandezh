@@ -66,7 +66,9 @@ I aim to grow as a developer by creating impactful projects.
 ### 📫 Contact Me
 
 - **Email**: [melikafa19@gmail.com](mailto:melikafa19@gmail.com)  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Melika-Fahandezh&color=a29bfe&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 <h3 align="center">Thank you for visiting 💜</h3>
